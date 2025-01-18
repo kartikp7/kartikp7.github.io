@@ -7,15 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD Candidate at [University of California, Davis](https://www.ucdavis.edu/), Electrical and Computer Engineering Department. I am advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html). I obtained my Bachelor's degree in Computer Engineering with a minor in Computer Science from UC Davis in December 2020.
+I am a 3rd year PhD candidate at [University of California, Davis](https://www.ucdavis.edu/) - [ECE Department](https://ece.ucdavis.edu/). I am advised by Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html). I received my B.S. (Computer Engineering major, Computer Science minor) from UC Davis in December 2020.
 
 ------
 
-**Research**: I primarily work in the domain of **Security and Privacy in Computer Vision**. My most recent works focus on Privacy-Preserving Computer Vision by **Image Anonymization** (quantification and synthesis) and **Domain Adaptation using Multi-Modal LLMs**. I have previously worked on research topics like **Adversarial Robustness**, **Neural Network Pruning**, **Model Extraction/Fingerprinting**. Currently, I am exploring **Foundation models** and **Multi-modal Understanding and Reasoning**.
+**Previously**: I interned at [Sony AI](https://ai.sony/) - PPML team in summer 2023 under the mentorship of Dr. [Lingjuan Lv](https://sites.google.com/view/lingjuan-lyu/home?authuser=0) and Dr. [Vivek Sharma](https://vivoutlaw.github.io/index.html). I also interned at [Sony](https://www.sony.com/en/) - Imaging & Sensing during summer 2022 under Mr. [Hideshi Yamada](https://www.linkedin.com/in/hideshi-yamada-3593aa101/?originalSubdomain=jp). 
 
-------
+-----
 
-**Previously**: I interned at [Sony AI](https://ai.sony/) - PPML team in summer 2023 under the mentorship of Dr. [Lingjuan Lv](https://sites.google.com/view/lingjuan-lyu/home?authuser=0) and Dr. [Vivek Sharma](https://vivoutlaw.github.io/index.html). I also interned at [Sony](https://www.sony.com/en/) - Imaging & Sensing under Mr. [Hideshi Yamada](https://www.linkedin.com/in/hideshi-yamada-3593aa101/?originalSubdomain=jp). 
+**Research Interests**:
+  - Privacy-Preserving Computer Vision (Image Anonymization and Synthesis)
+  - Multi-Modal LLMs, Vision-Language Models
+  - Security of Foundation Models
+
+**Previous work**:
+  - Adversarial Robustness
+  - Neural Network Pruning
+  - Model Extraction/Fingerprinting
 
 Recent News
 ======
@@ -27,9 +35,9 @@ Recent News
 * <span style="color:#5a8fdb">[Dec, 2023]</span> New paper introducing Fair Video Summarization ([FairVidSum](https://openreview.net/forum?id=Uj6MRfR1P5)) is accepted at **TMLR 2023**.
 * <span style="color:#5a8fdb">[Jun, 2023]</span> Joined Sony AI - PPML (Tokyo, Japan) as a research intern.
 * <span style="color:#5a8fdb">[Jun, 2023]</span> A first author paper benchmarking adversarial robustness of pruned models accepted at **ICML 2023 Workshop** - AdvML Frontiers.
-* <span style="color:#5a8fdb">[Mar, 2022]</span> Switched from M.S. to Ph.D. degree at UC Davis.
+* <span style="color:#5a8fdb">[Mar, 2022]</span> Started Ph.D. degree at UC Davis.
 * <span style="color:#5a8fdb">[Jul, 2022]</span> Joined Sony (SSS) - Imaging & Sensing (Tokyo, Japan) as a ML research engineer intern.
 * <span style="color:#5a8fdb">[Jun, 2022]</span> Attended and presented paper at EuroS&P 2022 in Genoa, Italy.
 * <span style="color:#5a8fdb">[Feb, 2022]</span> A first author paper fingerprinting DNN Architecture on CPU-GPU Edge Devices is accepted to **EuroS&P 2022.**
-* <span style="color:#5a8fdb">[Nov, 2021]</span> Paper targeting DNN Inference Labels via Side-Channel Attack is accepted to **DATE 2022**.
+* <span style="color:#5a8fdb">[Nov, 2021]</span> Paper targetting DNN Predictions via Side-Channel Attack is accepted to **DATE 2022**.
 * <span style="color:#5a8fdb">[Mar, 2021]</span> Started M.S. degree at UC Davis.

@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate @ UCD"
   location         : # "Davis, CA"
-  employer         : "University of California, Davis"
+  employer         : # "University of California, Davis"
   uri              : # URL
   email            : "kpatwari@ucdavis.edu" 
 
