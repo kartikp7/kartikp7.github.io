@@ -16,7 +16,7 @@ Preprint
 =====
 
 * **Rendering-Refined Stable Diffusion for Privacy Compliant Synthetic Data**  
-**K. Patwari**\*, D. Schneider\*, X. Sun, C-N. Chuah, L. Lyu, V.Sharma\* \
+**K. Patwari**\*, D. Schneider\*, X. Sun, C-N. Chuah, L. Lyu, V. Sharma\* \
 <!-- (*joint first-authors)<br> -->
 _Under Review_ <br>
 [[paper](https://arxiv.org/abs/2412.06248)] 
