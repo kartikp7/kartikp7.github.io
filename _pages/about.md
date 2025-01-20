@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD candidate at [University of California, Davis](https://www.ucdavis.edu/) - [ECE Department](https://ece.ucdavis.edu/). I am advised by Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html). I received my B.S. (Computer Engineering major, Computer Science minor) from UC Davis in December 2020.
+I am a 3rd year PhD candidate at [University of California, Davis](https://www.ucdavis.edu/) - [ECE Department](https://ece.ucdavis.edu/). I am advised by Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html). I received my B.S. (Computer Engineering major, Computer Science minor) from UC Davis in December 2020. I received my M.S. in March 2024 with project focused on Side Channel-based DNN Model Fingerprinting/Extraction.
 
 ------
 
