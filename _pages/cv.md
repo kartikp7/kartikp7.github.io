@@ -24,11 +24,11 @@ redirect_from:
 -- Work Experience
 ======
 * Summer 2023: ML Research Intern 
-  * Sony AI (Tokyo, Japan)
+  * Sony AI - PPML team (Tokyo, Japan)
   * _Focus_: Image Anonymization using Deep Learning
 
 * Summer 2022: ML Research Engineer Intern
-  * Sony - Imaging & Sensing (Tokyo, Japan)
+  * Sony - Imaging & Sensing team (Tokyo, Japan)
   * _Focus_: 3D Reconstruction from Images - SfM, MVS, & Mesh generation
   
 
