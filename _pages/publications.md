@@ -34,7 +34,7 @@ _Under Review_ <br>
 **K. Patwari**\*, C-N. Chuah, L. Lyu, V.Sharma\* \
 <!-- (*joint first-authors)<br> -->
 _International Conference on Machine Learning (**ICML**), 2024_ <br>
-[[project](https://kartikp7.github.io/perceptanon_project_page/)] [[paper](https://proceedings.mlr.press/v235/patwari24a.html)] [[code](https://github.com/SonyResearch/gdpr_perceptanon)] 
+[[project](https://kartikp7.github.io/perceptanon_project_page/)] [[paper](https://proceedings.mlr.press/v235/patwari24a.html)] [[code](https://github.com/kartikp7/perceptanon)] 
 
 * **LLM-FIN: Large Language Models Fingerprinting Attack on Edge Devices** \
 N. Nazari, F. Xiang, C.Fang, H. M. Makrani, A. Puri, **K. Patwari**, H. Sayadi, S. Rafatirad, C-N. Chuah, H. Homayoun \
