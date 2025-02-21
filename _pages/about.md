@@ -12,7 +12,7 @@ I am a 3rd year PhD candidate at [University of California, Davis](https://www.u
 
 **Previously**: I interned at [Sony AI](https://ai.sony/) - PPML team in summer 2023 under the mentorship of Dr. [Lingjuan Lv](https://sites.google.com/view/lingjuan-lyu/home?authuser=0) and Dr. [Vivek Sharma](https://vivoutlaw.github.io/index.html). I also interned at [Sony](https://www.sony.com/en/) - Imaging & Sensing during summer 2022 under Mr. [Hideshi Yamada](https://www.linkedin.com/in/hideshi-yamada-3593aa101/?originalSubdomain=jp). 
 
-**Research Interests**: Privacy-Preserving Computer Vision (Image Anonymization and Synthesis), Multi-Modal LLMs, Vision-Language Models, Security of Foundation Models
+**Research Interests**: Privacy-Preserving Computer Vision, Multi-Modal LLMs, Vision-Language Models, Generative AI
 
 <!-- **Previous work**:
   - Adversarial Robustness
