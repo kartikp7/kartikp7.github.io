@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "Updates"
-    url: /updates/
-
+  - title: "Resume"
+    url: /resume/
+    
   - title: "Publications"
     url: /publications/
+    
+  - title: "Updates"
+    url: /updates/
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Resume"
-    url: /resume/
     
   - title: "Contact"
     url: /contact/
