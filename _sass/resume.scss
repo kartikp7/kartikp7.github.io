@@ -1,0 +1,26 @@
+/* Resume Page Styles */
+.resume-download {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .btn-download {
+    display: inline-block;
+    padding: 12px 18px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: #d9534f;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .btn-download:hover {
+    background: #c9302c;
+  }
+  
+  .btn-download i {
+    margin-right: 8px;
+  }
+  

@@ -1,0 +1,33 @@
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+You can also find all my publications on <a href="https://scholar.google.com/citations?user=Gtw3NoAAAAAJ&hl=en">Google Scholar</a>.
+
+(*) Denotes shared authorship.
+
+{% include base_path %}
+
+<!-- Preprint Section -->
+{% assign preprints = site.publications | where: "venue", "Preprint" | sort: 'date' | reverse %}
+{% if preprints.size > 0 %}
+  <h2 id="preprint" style="color: #494e52; margin-bottom: 1em;">Preprint</h2>
+  {% for post in preprints %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+<!-- Regular Publications Sorted by Year -->
+{% assign sorted_publications = site.publications | where_exp: "post", "post.venue != 'Preprint'" | sort: 'date' | reverse %}
+{% capture written_year %}None{% endcapture %}
+
+{% for post in sorted_publications %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" style="color: #494e52; margin-bottom: 1em;">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}

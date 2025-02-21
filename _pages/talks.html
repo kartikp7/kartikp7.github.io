@@ -1,0 +1,25 @@
+---
+title: "Talks and Presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+<table style="font-size: 1em; border: none;">
+{% capture written_title %}'None'{% endcapture %}
+{% for post in site.talks reversed %}
+  {% capture title %}{{ post.title }}{% endcapture %}
+  {% if title != written_title %}
+    <tr><th colspan="2" style="border: none; padding: 0;">
+      <h3 style="color: #494e52;"><a>{{ title }}</a></h3>
+    </th></tr>
+    {% capture written_title %}{{ title }}{% endcapture %}
+  {% endif %} 
+  {% include archive-single-talk.html %}
+{% endfor %}
+</table>
