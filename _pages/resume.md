@@ -26,6 +26,10 @@ redirect_from:
   K. Patwari\*, D. Schneider\*, X. Sun, C-N. Chuah, L. Lyu, V. Sharma\*  
   [📄 Paper](https://arxiv.org/abs/2412.06248)
 
+- **Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning**  
+  D. Chen \*, K. Patwari\*, Z. Lai, X. Zhu, S. Cheung, C-N. Chuah  
+  [📄 Paper](https://arxiv.org/abs/2405.18376)
+
 - **PerceptAnon: Exploring the Human Perception of Image Anonymization Beyond Pseudonymization for GDPR**  
   K. Patwari\*, C-N. Chuah, L. Lyu, V. Sharma\*  
   [📄 Paper](https://proceedings.mlr.press/v235/patwari24a.html)
