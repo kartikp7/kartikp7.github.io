@@ -30,18 +30,15 @@ redirect_from:
 ## 📝 **Selected Publications**
 - **Rendering-Refined Stable Diffusion for Privacy Compliant Synthetic Data**  
   K. Patwari\*, D. Schneider\*, X. Sun, C-N. Chuah, L. Lyu, V. Sharma\*  
-  Under Submission    
-  [📄 Paper](https://arxiv.org/abs/2412.06248)
+  Under Submission  &emsp;  [📄 Paper](https://arxiv.org/abs/2412.06248)
 
 - **Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning**  
   D. Chen \*, K. Patwari\*, Z. Lai, X. Zhu, S. Cheung, C-N. Chuah  
-  Under Submission  
-  [📄 Paper](https://arxiv.org/abs/2405.18376)
+  Under Submission &emsp; [📄 Paper](https://arxiv.org/abs/2405.18376)
 
 - **PerceptAnon: Exploring the Human Perception of Image Anonymization Beyond Pseudonymization for GDPR**  
   K. Patwari\*, C-N. Chuah, L. Lyu, V. Sharma\*  
-  ICML  
-  [📄 Paper](https://proceedings.mlr.press/v235/patwari24a.html)
+  ICML 2024 &emsp; [📄 Paper](https://proceedings.mlr.press/v235/patwari24a.html)
 
 ## 💼 **Work Experience**
 
@@ -61,7 +58,7 @@ redirect_from:
 ## 🔬 **Ongoing Research**
 - **Watermarking Pre-trained Vision Models** &emsp;&emsp;&emsp;&emsp;_(Oct. 2024 - Present)_
   - Embedding watermark signatures into pre-trained models for IP verification.
-- **Pruning Low Light Image Enhancement Models** (Jul. 2024 - Present)
+- **Pruning Low Light Image Enhancement Models** &emsp;&emsp;&emsp;&emsp; (Jul. 2024 - Present)
   - Designing loss functions for gradient-based pruning of LLIE CNN, transformer, & diffusion models.
 
 ## 🔎 Projects
