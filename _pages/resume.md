@@ -42,6 +42,9 @@ redirect_from:
 
 ## 💼 **Work Experience**
 
+- **Applied Scientist Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(April 2025 – Present)_  
+  **[Amazon](https://amazon.jobs/content/en/teams/devices-and-services/lab126)** &emsp;Team: [Ring](https://ring.com/) at Amazon Lab 126
+
 - **Research Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Jun 2023 – Sep 2023)_  
   **[Sony AI](https://ai.sony/)** &emsp;Team: Privacy-Preserving Machine Learning
   - Developed and trained lightweight task-specific object detectors to detect PIIs to anonymize.  
