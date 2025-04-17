@@ -51,7 +51,7 @@ redirect_from:
   - Adapted MobileNet-based architectures for on-camera detector inference.  
   - Developed anonymization tool (mask, blur, inpaint, synthesize) for full body & face images.  
 
-- **Research Engineer Intern**&emsp;&emsp;&emsp;&emsp;_(Jul 2022 – Sep 2022)_  
+- **ML Research Engineer Intern**&emsp;&emsp;&emsp;&emsp;_(Jul 2022 – Sep 2022)_  
   **[Sony](https://www.sony.com/en/)** &emsp;Team: Imaging & Sensing
   - Investigated Deep Learning (DL) based 3D reconstruction from images.  
   - Tested and evaluated learning & non-learning based pipelines on custom datasets.  
