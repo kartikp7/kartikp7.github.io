@@ -8,8 +8,4 @@ paperurl: 'https://ojs.aaai.org/index.php/AAAI-SS/article/view/35545'
 code: ''
 pdf: '/papers/2025cohsf.pdf'
 poster: '/files/research/cohsf2025-poster.pdf'
-# media: [
-#     ['Website', 'https://kartikp7.github.io/perceptanon_project_page/']
-# ]
-selected: true
 ---
