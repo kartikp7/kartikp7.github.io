@@ -27,7 +27,7 @@ redirect_from:
   University of California, Davis 
 
 
-## 📝 **Selected Publications**
+## 📝 **Select Publications**
 - **Rendering-Refined Stable Diffusion for Privacy Compliant Synthetic Data**  
   K. Patwari\*, D. Schneider\*, X. Sun, C-N. Chuah, L. Lyu, V. Sharma\*  
   Under Submission  &emsp;  [📄 Paper](https://arxiv.org/abs/2412.06248)
