@@ -11,7 +11,7 @@ redirect_from:
 <!-- # Resume -->
 
 <p class="resume-download">
-  <a href="/files/kartik_resume_feb2025.pdf" class="btn btn-download" target="_blank">
+  <a href="/files/Kartik_CV_July2025.pdf" class="btn btn-download" target="_blank">
     <i class="fas fa-file-pdf"></i> Download Resume (PDF)
   </a>
 </p>
