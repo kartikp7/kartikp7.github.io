@@ -42,8 +42,13 @@ redirect_from:
 
 ## 💼 **Work Experience**
 
-- **Applied Scientist Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(April 2025 – Present)_  
+- **ML Engineer III Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Sep 2025 – Present)_  
+  **[Cisco Systems](https://www.cisco.com/)** &emsp;Team: [AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html)
+  
+- **Applied Scientist Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Apr 2025 – Aug 2025)_  
   **[Amazon](https://amazon.jobs/content/en/teams/devices-and-services/lab126)** &emsp;Team: [Ring](https://ring.com/) at Amazon Lab 126
+  - Developed new architceture for multi-modal image retreival.
+  - Paper under submission.
 
 - **Research Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Jun 2023 – Sep 2023)_  
   **[Sony AI](https://ai.sony/)** &emsp;Team: Privacy-Preserving Machine Learning
