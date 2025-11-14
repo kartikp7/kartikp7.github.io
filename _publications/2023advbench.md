@@ -7,4 +7,5 @@ date: 2023-08-01
 paperurl: 'https://arxiv.org/abs/2308.08160'
 pdf: '/papers/2023advbench.pdf'
 # code: ''
+poster: '/files/research/advfrontiers2023-poster.pdf'
 ---
