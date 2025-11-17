@@ -11,13 +11,13 @@ redirect_from:
 <!-- # Resume -->
 
 <p class="resume-download">
-  <a href="/files/Kartik_CV_Sep_2025.pdf" class="btn btn-download" target="_blank">
+  <a href="/files/KartikPatwari_CV_Nov2025v2.pdf" class="btn btn-download" target="_blank">
     <i class="fas fa-file-pdf"></i> Download Resume (PDF)
   </a>
 </p>
 
 ## 🎓 **Education**
-- **Ph.D. Computer Engineering** &emsp;&emsp;&emsp;&emsp; _(Mar. 2022 - Present)_  
+- **Ph.D. Computer Engineering** &emsp;&emsp;&emsp;&emsp; _(Mar. 2022 - Mar. 2026)_  
   University of California, Davis  
   _Dissertation Topic_: Privacy-Preserving Computer Vision  
   <!-- GPA: 3.8/4.0    -->
