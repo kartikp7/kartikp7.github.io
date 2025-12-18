@@ -12,7 +12,7 @@ I am a 4th year PhD candidate at [University of California, Davis](https://www.u
 <!-- I received my B.S. (Computer Engineering major, Computer Science minor) from UC Davis in December 2020 and my M.S. in March 2024.  -->
 
 **Previously**: 
-- ***Fall 2025***:PhD ML Engineer Intern at *[Cisco AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html)* under [Prashanth Arun](https://www.linkedin.com/in/prashanth-arun-20a7181). 
+- ***Fall 2025***: PhD ML Engineer Intern at *[Cisco AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html)* under [Prashanth Arun](https://www.linkedin.com/in/prashanth-arun-20a7181). 
 - ***Spring & Summer 2025***: Applied Scientist intern at *[Amazon](https://www.amazon.com/stores/Ring/page/77B53039-540E-4816-BABB-49AA21285FCF)* Ring (Sunnyvale, CA) under [Noranart (Sol) Vesdapunt](https://noranart.com/?i=1) and [Ning Zhou](https://www.linkedin.com/in/ningzh).
 - ***Summer 2023***: PhD Research Intern at *[Sony AI](https://ai.sony/)* - PPML team under the mentorship of Dr. [Lingjuan Lv](https://sites.google.com/view/lingjuan-lyu/home?authuser=0) and Dr. [Vivek Sharma](https://vivoutlaw.github.io/index.html).
 - ***Summer 2022***: ML Research Engineer Intern at *[Sony](https://www.sony.com/en/)* - Imaging & Sensing under Mr. [Hideshi Yamada](https://www.linkedin.com/in/hideshi-yamada-3593aa101/?originalSubdomain=jp). 
