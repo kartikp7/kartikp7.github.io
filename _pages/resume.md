@@ -17,7 +17,7 @@ redirect_from:
 </p>
 
 ## 🎓 **Education**
-- **Ph.D. Computer Engineering** &emsp;&emsp;&emsp;&emsp; _(Mar. 2022 - Mar. 2026)_  
+- **Ph.D. Computer Engineering** &emsp;&emsp;&emsp;&emsp; _(Oct. 2022 - Jan. 2026)_  
   University of California, Davis  
   _Dissertation Topic_: Privacy-Preserving Computer Vision  
   <!-- GPA: 3.8/4.0    -->
