@@ -26,24 +26,12 @@ redirect_from:
 - **B.S. Computer Engineering (Computer Science Minor)** &emsp;&emsp;&emsp;&emsp; _(Sep. 2016 - Dec. 2020)_  
   University of California, Davis 
 
-
-## 📝 **Select Publications**
-- **Rendering-Refined Stable Diffusion for Privacy Compliant Synthetic Data**  
-  K. Patwari\*, D. Schneider\*, X. Sun, C-N. Chuah, L. Lyu, V. Sharma\*  
-  Under Submission  &emsp;  [📄 Paper](https://arxiv.org/abs/2412.06248)
-
-- **Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning**  
-  K. Patwari\*, D. Chen \*, Z. Lai, X. Zhu, S. Cheung, C-N. Chuah  
-  WACV 2026 &emsp; [📄 Paper](https://arxiv.org/abs/2405.18376)
-
-- **PerceptAnon: Exploring the Human Perception of Image Anonymization Beyond Pseudonymization for GDPR**  
-  K. Patwari\*, C-N. Chuah, L. Lyu, V. Sharma\*  
-  ICML 2024 &emsp; [📄 Paper](https://proceedings.mlr.press/v235/patwari24a.html)
-
 ## 💼 **Work Experience**
 
 - **ML Engineer III Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Sep 2025 – Present)_  
   **[Cisco Systems](https://www.cisco.com/)** &emsp;Team: [AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html)
+  - Exposed new vision-language vulnerability in multimodal prompt injection attacks
+  - SFT of LLaVA-NeXT and Qwen2.5-VL for image safety assessment, boosting F1 score by ∼15%  
   
 - **Applied Scientist Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Apr 2025 – Aug 2025)_  
   **[Amazon](https://amazon.jobs/content/en/teams/devices-and-services/lab126)** &emsp;Team: [Ring](https://ring.com/) at Amazon Lab 126
@@ -62,18 +50,18 @@ redirect_from:
   - Tested and evaluated learning & non-learning based pipelines on custom datasets.  
   - Modified and suggested suitable SOTA DL methods to integrate into existing pipeline.  
 
+## 📝 **Select Publications**
+- **Rendering-Refined Stable Diffusion for Privacy Compliant Synthetic Data**  
+  K. Patwari\*, D. Schneider\*, X. Sun, C-N. Chuah, L. Lyu, V. Sharma\*  
+  Under Submission  &emsp;  [📄 Paper](https://arxiv.org/abs/2412.06248)
 
-## 🔬 **Ongoing Research**
-- **Watermarking Pre-trained Vision Models** &emsp;&emsp;&emsp;&emsp;_(Oct. 2024 - Present)_
-  - Embedding watermark signatures into pre-trained models for IP verification.
-- **Pruning Low Light Image Enhancement Models** &emsp;&emsp;&emsp;&emsp; (Jul. 2024 - Present)
-  - Designing loss functions for gradient-based pruning of LLIE CNN, transformer, & diffusion models.
+- **Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning**  
+  K. Patwari\*, D. Chen \*, Z. Lai, X. Zhu, S. Cheung, C-N. Chuah  
+  WACV 2026 &emsp; [📄 Paper](https://arxiv.org/abs/2405.18376)
 
-## 🔎 Projects
-- **D-SLAM: Monocular V-SLAM with Depth Estimation** &emsp;&emsp;&emsp;&emsp;_(Dec. 2019 - Mar. 2020)_  
-  - Implemented a RGB-D SLAM system that performs monocular depth estimation and SLAM.
-  - Benchmarked results on KITTI odometry dataset, deployed on NVIDIA Jetson TX2 at 3.3 FPS.
-  - Project won Outstanding Senior Design Project Award in UC Davis ECE Department.
+- **PerceptAnon: Exploring the Human Perception of Image Anonymization Beyond Pseudonymization for GDPR**  
+  K. Patwari\*, C-N. Chuah, L. Lyu, V. Sharma\*  
+  ICML 2024 &emsp; [📄 Paper](https://proceedings.mlr.press/v235/patwari24a.html)
 
 ## 🔧 **Technical Skills**
 - **Relevant Courses:** Machine Learning, Vision and Language Research, ML Hardware, Image Processing
