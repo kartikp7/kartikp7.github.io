@@ -7,7 +7,8 @@ date: 2024-07-24
 paperurl: 'https://proceedings.mlr.press/v235/patwari24a.html'
 code: 'https://github.com/kartikp7/perceptanon'
 pdf: '/papers/2024perceptanon.pdf'
-poster: 'https://icml.cc/media/PosterPDFs/ICML%202024/35031.png?t=1721345338.4386227'
+# poster: 'https://icml.cc/media/PosterPDFs/ICML%202024/35031.png?t=1721345338.4386227'
+poster: '/files/research/perceptanon2024-poster.pdf'
 website: 'https://kartikp7.github.io/perceptanon_project_page/'
 # media: [
 #     ['Website', 'https://kartikp7.github.io/perceptanon_project_page/']
