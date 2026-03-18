@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD candidate at [University of California, Davis](https://www.ucdavis.edu/) - [ECE Department](https://ece.ucdavis.edu/), advised by Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), focusing on Security and Privacy of Computer Vision. 
+I am a **Research Scientist** at the [Institute of Foundation Models, MBZUAI](https://ifm.ai/) in the **World Model** team. I am completing PhD at [University of California, Davis](https://www.ucdavis.edu/) - [ECE Department](https://ece.ucdavis.edu/), advised by Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), focusing on Security and Privacy of Computer Vision. 
 <!-- I received my B.S. (Computer Engineering major, Computer Science minor) from UC Davis in December 2020 and my M.S. in March 2024.  -->
 
 **Previously**: 
