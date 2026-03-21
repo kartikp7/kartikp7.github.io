@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kartik Patwari"
   avatar           : "profile2.JPG"
-  bio              : "📚 PhD @ <a href='https://ece.ucdavis.edu/'>UC Davis</a> 📚"
-  location         : "California"
-  employer         : University of California, Davis
+  bio              : "🌐 Research Scientist @ <a href='https://ifm.ai/'>IFM</a> 🌐"
+  location         : "San Jose, California"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RZp_kd0AAAAJ&hl=en"
   email            : "kpatwari@ucdavis.edu"
