@@ -26,7 +26,7 @@ I am a **Research Scientist** at the [Institute of Foundation Models, MBZUAI](ht
 
 -----
 
-# Selected Publications
+# Select Publications
 
 {% assign selected_pubs = site.publications | sort: 'date' | reverse | where_exp: "post", "post.selected == true" %}
 
@@ -34,7 +34,7 @@ I am a **Research Scientist** at the [Institute of Foundation Models, MBZUAI](ht
   {% include archive-single.html %}
 {% endfor %}
 
-### [See more...]({{ site.url }}/publications)
+### [See more publications...]({{ site.url }}/publications)
 
 -----
 
