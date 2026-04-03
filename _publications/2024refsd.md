@@ -1,11 +1,11 @@
 ---
 collection: publications
-title: "Rendering-Refined Stable Diffusion for Privacy Compliant Synthetic Data"
+title: "Privacy-Complaint Human Data Synthesis in Images"
 authors: 'Kartik Patwari\*, David Schneider\*, Xiaoxiao Sun, Chen-Nee Chuah, Lingjuan Lyu, Vivek Sharma\*'
-venue: 'Preprint'
-date: 2024-12-09
-paperurl: 'https://arxiv.org/abs/2412.06248'
-pdf: 'https://arxiv.org/abs/2412.06248'
+venue: 'IEEE Conference on Automatic Face and Gesture Recognition (FG)'
+date: 2026-05-25
+paperurl: ''
+pdf: ''
 code: ''
 selected: true
 ---
