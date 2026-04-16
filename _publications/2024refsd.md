@@ -7,6 +7,6 @@ date: 2026-05-25
 paperurl: ''
 pdf: ''
 code: ''
-website: 'https://rendering-refined-stable-diffusion.github.io/
+website: 'https://rendering-refined-stable-diffusion.github.io/'
 selected: true
 ---
