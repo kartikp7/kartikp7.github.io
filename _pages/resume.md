@@ -11,13 +11,18 @@ redirect_from:
 <!-- # Resume -->
 
 <p class="resume-download">
-  <a href="/files/Kartik_CV_March2026.pdf" class="btn btn-download" target="_blank">
+  <a href="/files/Kartik_CV_April2026.pdf" class="btn btn-download" target="_blank">
     <i class="fas fa-file-pdf"></i> Download Resume (PDF)
   </a>
 </p>
 
+## Current Position
+- **Research Scientist Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Mar 202 – Present)_  
+  **[MBZUAI, Institute of Foundation Models](https://ifm.ai/)** &emsp;Team: [World Model](https://ifm.mbzuai.ac.ae/pan/)
+  - Working on multimodal LLM pretraining and post-training for vision alignment
+
 ## 🎓 **Education**
-- **Ph.D. Computer Engineering** &emsp;&emsp;&emsp;&emsp; _(Oct. 2022 - Jan. 2026)_  
+- **Ph.D. Computer Engineering** &emsp;&emsp;&emsp;&emsp; _(Oct. 2022 - Mar. 2026)_  
   University of California, Davis  
   _Dissertation Topic_: Privacy-Preserving Computer Vision  
   <!-- GPA: 3.8/4.0    -->
@@ -26,7 +31,7 @@ redirect_from:
 - **B.S. Computer Engineering (Computer Science Minor)** &emsp;&emsp;&emsp;&emsp; _(Sep. 2016 - Dec. 2020)_  
   University of California, Davis 
 
-## 💼 **Work Experience**
+## 💼 **Prior Work Experience**
 
 - **ML Engineer III Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Sep 2025 – Present)_  
   **[Cisco Systems](https://www.cisco.com/)** &emsp;Team: [AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html)
@@ -36,13 +41,16 @@ redirect_from:
 - **Applied Scientist Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Apr 2025 – Aug 2025)_  
   **[Amazon](https://amazon.jobs/content/en/teams/devices-and-services/lab126)** &emsp;Team: [Ring](https://ring.com/) at Amazon Lab 126
   - Developed new architceture for multi-modal image retreival.
-  - Paper under submission.
+  - Created large scale multimodal fine grain retrieval dataset.
+  - Proposed new pose-guidede feature disentanglement and dense disentangling loss.
+  - Paper accepted at CVPR 2026
 
 - **Research Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Jun 2023 – Sep 2023)_  
   **[Sony AI](https://ai.sony/)** &emsp;Team: Privacy-Preserving Machine Learning
   - Developed and trained lightweight task-specific object detectors to detect PIIs to anonymize.  
   - Adapted MobileNet-based architectures for on-camera detector inference.  
-  - Developed anonymization tool (mask, blur, inpaint, synthesize) for full body & face images.  
+  - Developed anonymization tool (mask, blur, inpaint, synthesize) for full body & face images.
+  - Paper accepted at ICML 2024  
 
 - **ML Research Engineer Intern**&emsp;&emsp;&emsp;&emsp;_(Jul 2022 – Sep 2022)_  
   **[Sony](https://www.sony.com/en/)** &emsp;Team: Imaging & Sensing
