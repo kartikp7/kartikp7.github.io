@@ -30,7 +30,7 @@ I am a **Research Scientist** at the [Institute of Foundation Models, MBZUAI](ht
 
 {% assign selected_pubs = site.publications | sort: 'date' | reverse | where_exp: "post", "post.selected == true" %}
 
-{% for post in selected_pubs limit:3 %}
+{% for post in selected_pubs limit:4 %}
   {% include archive-single.html %}
 {% endfor %}
 
