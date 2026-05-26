@@ -8,5 +8,6 @@ paperurl: ''
 pdf: ''
 code: ''
 website: 'https://rendering-refined-stable-diffusion.github.io/'
+poster: '/files/research/refsd2026-poster.pdf'
 selected: true
 ---
