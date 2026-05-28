@@ -5,4 +5,5 @@ authors: 'Kartik Patwari, Noranart Vesdapunt, Chien-Yi Wang, Dawei Li, Cong Phuo
 venue: 'IEEE/CVF Computer Vision and Pattern Recognition (CVPR)'
 date: 2026-06-03
 selected: true
+website: 'https://kartikp7.github.io/ca_reid_project/'
 ---
