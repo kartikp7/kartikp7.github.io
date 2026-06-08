@@ -33,7 +33,7 @@ redirect_from:
 
 ## 💼 **Prior Work Experience**
 
-- **ML Engineer III Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Sep 2025 – Present)_  
+- **AI Researcher Intern**&emsp;&emsp;&emsp;&emsp;&emsp;_(Sep 2025 – Present)_  
   **[Cisco Systems](https://www.cisco.com/)** &emsp;Team: [AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html)
   - Exposed new vision-language vulnerability in multimodal prompt injection attacks
   - SFT of LLaVA-NeXT and Qwen2.5-VL for image safety assessment, boosting F1 score by ∼15%  
