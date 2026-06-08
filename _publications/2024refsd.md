@@ -4,9 +4,6 @@ title: "Privacy-Complaint Human Data Synthesis in Images for GDPR"
 authors: 'Kartik Patwari\*, David Schneider\*, Xiaoxiao Sun, Chen-Nee Chuah, Lingjuan Lyu, Vivek Sharma\*'
 venue: 'IEEE Conference on Automatic Face and Gesture Recognition (FG)'
 date: 2026-05-25
-paperurl: ''
-pdf: ''
-code: ''
 website: 'https://rendering-refined-stable-diffusion.github.io/'
 poster: '/files/research/refsd2026-poster.pdf'
 selected: true
