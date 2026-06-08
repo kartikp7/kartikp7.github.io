@@ -5,6 +5,4 @@ authors: 'Jing Liu, Linxiao Gong, Juncen Guo, Jingyi Wu, Lianlong Sun, Yulai Bi,
 venue: 'Preprint'
 date: 2025-08-26
 paperurl: 'https://d197for5662m48.cloudfront.net/documents/publicationstatus/276068/preprint_pdf/2ac0b4a9464571b7439461fd5e1c41a9.pdf'
-code: ''
-pdf: ''
 ---
