@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a (Post-Doc) **Research Scientist** at the [Institute of Foundation Models, MBZUAI](https://ifm.ai/) in the **World Model** team. I completed my PhD at [University of California, Davis](https://www.ucdavis.edu/) in March 2026, advised by Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), focusing on Security and Privacy of Computer Vision. 
-<!-- I received my B.S. (Computer Engineering major, Computer Science minor) from UC Davis in December 2020 and my M.S. in March 2024.  -->
+I am a **Research Scientist** at the [Institute of Foundation Models, MBZUAI](https://ifm.ai/) on the **World Model** team. My current research focuses on video generation and world model pretraining, particularly improving model capabilities through large-scale video data curation, concept balancing, pretraining curricula, and data mixture design.
+
+I completed my PhD in Computer Engineering at [University of California, Davis](https://www.ucdavis.edu/) in March 2026, advised by Prof. [Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html). My PhD research focused on computer vision, multimodal learning, and security & privacy, with work spanning privacy-preserving visual learning, multimodal retrieval, domain adaptation, and generative models.
+<!-- I received my B.S. (Computer Engineering major, Computer Science minor) from UC Davis in December 2020 and my M.S. in March 2024. Previously, I’ve worked with Cisco AI Defense, Amazon Ring AI, Sony AI Privacy Preserving ML, and Sony Imaging & Sensing. -->
 
 **Previously**: 
 - ***Fall 2025***: PhD AI Researcher Intern at *[Cisco AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html)* (San Jose, CA) under [Prashanth Arun](https://www.linkedin.com/in/prashanth-arun-20a7181). 
-- ***Spring & Summer 2025***: Applied Scientist intern at *[Amazon](https://www.amazon.com/stores/Ring/page/77B53039-540E-4816-BABB-49AA21285FCF)* Ring (Sunnyvale, CA) under [Noranart (Sol) Vesdapunt](https://noranart.com/?i=1) and [Ning Zhou](https://www.linkedin.com/in/ningzh).
-- ***Summer 2023***: PhD Research Intern at *[Sony AI](https://ai.sony/)* - PPML team (Tokyo, JP) under the mentorship of Dr. [Lingjuan Lv](https://sites.google.com/view/lingjuan-lyu/home?authuser=0) and Dr. [Vivek Sharma](https://vivoutlaw.github.io/index.html).
-- ***Summer 2022***: ML Research Engineer Intern at *[Sony](https://www.sony.com/en/)* - Imaging & Sensing (Tokyo, JP) under Mr. [Hideshi Yamada](https://www.linkedin.com/in/hideshi-yamada-3593aa101/?originalSubdomain=jp). 
+- ***Spring & Summer 2025***: Applied Scientist intern at *[Amazon](https://www.amazon.com/stores/Ring/page/77B53039-540E-4816-BABB-49AA21285FCF)* Ring (Sunnyvale, CA) under [Noranart (Sol) Vesdapunt](https://noranart.com/?i=1) and Dr. [Ning Zhou](https://www.linkedin.com/in/ningzh).
+- ***Summer 2023***: PhD Research Intern at *[Sony AI](https://ai.sony/)* - Privacy Preserving ML team (Tokyo, JP) under the mentorship of Dr. [Lingjuan Lv](https://sites.google.com/view/lingjuan-lyu/home?authuser=0) and Dr. [Vivek Sharma](https://vivoutlaw.github.io/index.html).
+- ***Summer 2022***: ML Research Engineer Intern at *[Sony](https://www.sony.com/en/)* - Imaging & Sensing (Tokyo, JP) under [Hideshi Yamada](https://www.linkedin.com/in/hideshi-yamada-3593aa101/?originalSubdomain=jp). 
 
 **Research Interests**: Privacy-Preserving Computer Vision, Multi-Modal LLMs, Generative AI
 
