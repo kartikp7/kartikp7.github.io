@@ -19,7 +19,7 @@ I completed my PhD in Computer Engineering at [University of California, Davis](
 - ***Summer 2023***: PhD Research Intern at *[Sony AI](https://ai.sony/)* - Privacy Preserving ML team (Tokyo, JP) under the mentorship of Dr. [Lingjuan Lv](https://sites.google.com/view/lingjuan-lyu/home?authuser=0) and Dr. [Vivek Sharma](https://vivoutlaw.github.io/index.html).
 - ***Summer 2022***: ML Research Engineer Intern at *[Sony](https://www.sony.com/en/)* - Imaging & Sensing (Tokyo, JP) under [Hideshi Yamada](https://www.linkedin.com/in/hideshi-yamada-3593aa101/?originalSubdomain=jp). 
 
-**Research Interests**: Privacy-Preserving Computer Vision, Multi-Modal LLMs, Generative AI
+**Research Interests**: World Models, Privacy-Preserving Computer Vision, Multi-Modal LLMs, Physical/Embodied AI
 
 <!-- **Previous work**:
   - Adversarial Robustness
